@@ -1,9 +1,13 @@
 _repo: Essais-de-Montaigne-self-edition-Volume-II_49168
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Michaud, Général
     gutenberg_agent_id: '45174'
     url: http://www.gutenberg.org/2009/agents/45174
+covers:
+- cover_type: archival
+  image_path: 49168-h/images/cover.jpg
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1230
     wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49168#Essais-de-Montaigne-self-edition-Volume-II
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2015-06-08'
 gutenberg_type: Text
